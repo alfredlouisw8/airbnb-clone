@@ -2,6 +2,14 @@
 
 This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
 
+Demo Account
+
+Email: test@gmail.com
+
+Password: 123456
+
+[Example Demo](https://airbnb-clone-theta-ruddy.vercel.app/)
+
 Features:
 
 - Tailwind design
